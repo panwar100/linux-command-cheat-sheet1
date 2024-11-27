@@ -27,23 +27,28 @@ This prompt represents the following:
 ## 2) `pwd` Command
 
 The `pwd` command prints the current working directory.
+
 ![Screenshot from 2024-11-27 19-10-32](https://github.com/user-attachments/assets/c1952a62-aa24-4500-9d67-ae78983eadc7)
 
 ## 3) `cd` Command
 
 The `cd` command allows you to change directories.
+
 ![Screenshot from 2024-11-27 19-14-03](https://github.com/user-attachments/assets/d7df1475-782f-4945-a157-114d87a2a522)
 
 ### Going Up One Level:
 The `cd ..` command takes you to the parent directory.
+
 ![Screenshot from 2024-11-27 19-17-09](https://github.com/user-attachments/assets/f9c55c03-342a-436d-bc44-efebf22c746b)
 
 ## 4) `date` and `cal` Commands
 
 - **`date`**: Displays the current system date and time.
+
 ![Screenshot from 2024-11-27 19-19-18](https://github.com/user-attachments/assets/cc68c494-e4e3-414e-921c-d9ba152a33d6)
 
 - Example variants: `+%a`, `+%A`, `+%x`, `+%X`, `+%h`, `+%H` for various formats.
+
 ![Screenshot from 2024-11-27 19-36-15](https://github.com/user-attachments/assets/4efe1eea-13d2-49e6-a892-1b0fcfd6b19f)
 
 - **`cal`**: Displays a calendar in the terminal.
@@ -61,7 +66,7 @@ Use `hostnamectl` to manage the system's hostname and related settings.
 
 ![Screenshot from 2024-11-27 19-42-31](https://github.com/user-attachments/assets/d348f883-7ec3-4a65-bd0d-16d74a2ec4df)
 
-- To set a new hostname, use `hostnamectl set-hostname <hostname>`.
+To set a new hostname, use `hostnamectl set-hostname <hostname>`.
 
 ![Screenshot from 2024-11-27 19-50-00](https://github.com/user-attachments/assets/c44666e2-f1a2-488e-89f1-5f9dafca55d6)
 
@@ -134,6 +139,7 @@ Use commands to create files in Linux.
 The `cat >` command allows you to create or overwrite a file and input text interactively.
 - To exit and save, press `Ctrl+D`.
 - note: use cat and less for read the content inside the file
+
 ![Screenshot from 2024-11-27 21-12-15](https://github.com/user-attachments/assets/34e5b451-5d8a-4996-827b-3de1f426023d)
 
 ## Conclusion
