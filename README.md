@@ -3,18 +3,19 @@ This repository contains a comprehensive guide to common Linux commands with exa
 
 ## Table of Contents
 
-1. [User Prompt](#1-rootlocalhost-)
-2. [PWD](#2-pwd)
-3. [CD](#3-cd)
-4. [Date and Cal](#4-date-and-cal)
-5. [Hostnamectl](#5-hostnamectl)
-6. [LS Command](#6-ls)
-7. [Mkdir and Rmdir](#7-mkdir-and-rmdir)
+1. [User Prompt](#1-user-prompt)
+2. [PWD](#2-pwd-command)
+3. [CD](#3-cd-command)
+4. [Date and Cal](#4-date-and-cal-command)
+5. [Hostnamectl](#5-hostnamectl-command)
+6. [LS Command](#6-ls-command)
+7. [Mkdir and Rmdir](#7-mkdir-and-rmdir-command)
 8. [Init Commands](#8-init-commands)
 9. [Create File](#9-create-file)
-10. [Overwrite or Create File (cat >)](#10-create-or-overwrite-a-file)
+10. [Overwrite or Create File (cat >)](#10-cat-command)
 
-## 1) `root@localhost ~#` Explanation
+## 1) User prompt
+`root@localhost ~#` Explanation
 
 This prompt represents the following:
 - **root**: You are logged in as the root user, which has full administrative privileges.
