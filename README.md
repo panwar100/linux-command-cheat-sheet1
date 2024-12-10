@@ -6,13 +6,13 @@ This repository contains a comprehensive guide to common Linux commands with exa
 1. [User Prompt](#1-user-prompt)
 2. [PWD](#2-pwd-command)
 3. [CD](#3-cd-command)
-4. [Date and Cal](#4-date-and-cal-command)
+4. [Date and Cal](#4-date-and-cal-commands)
 5. [Hostnamectl](#5-hostnamectl-command)
 6. [LS Command](#6-ls-command)
-7. [Mkdir and Rmdir](#7-mkdir-and-rmdir-command)
+7. [Mkdir and Rmdir](#7-mkdir-and-rmdir-commands)
 8. [Init Commands](#8-init-commands)
 9. [Create File](#9-create-file)
-10. [Overwrite or Create File (cat >)](#10-cat-command)
+10. [Overwrite or Create File (cat >)](#10-cat--command)
 
 ## 1) User prompt
 `root@localhost ~#` Explanation
